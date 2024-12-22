@@ -1,0 +1,4 @@
+.vscode
+build
+includes/glfw
+stb_image.h
